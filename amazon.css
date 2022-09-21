@@ -1,0 +1,23 @@
+.container{ 
+    border: 5px groove;
+    padding: 10px;
+    max-width: 450px;
+    height: 300px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+img {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+
+}
+h3 {text-align: center;}
+h4 {text-align: center;}
+h1 {font-size: x-large;}
+h2 {font-size: smaller;}
+h3 {font-size: small;}
+h4 {font-size: small;}
+
+
